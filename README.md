@@ -6,7 +6,9 @@
 - Linkedin:https://www.linkedin.com/in/sparshdixit
 - 😄 Pronouns:He/Him.
 - ⚡ Fun fact: I like to play cricket.
-  About me😎
+
+
+   About me😎
   I am a dedicated web developer with a keen interest in creating interactive and user-friendly websites.my skills span across multiple languages.allowing me to bring versatility to my projects.
   Skills🚀
   HTML:- crafting the structure of web pages.
@@ -18,6 +20,8 @@
 
 projects🗀
 Here are some of the projects I've worked on:
+
+
 1.Portfolio Website: Developed a personal portfolio showcasing my skills and projects.
 2.Weather App: Implemented a weather application using javascript and external's APIs.
 3.Calculator: created a calculator using html,css,js for basic operations.
