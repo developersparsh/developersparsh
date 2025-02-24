@@ -32,7 +32,7 @@ I love solving real-world problems with technology and continuously strive to im
 ## 📫 Contact Me
 - 📧 Email: work.sparsh.02@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/sparshdixit
-- 🐙 GitHub: 
+- 🐙 GitHub: https://github.com/Developersparsh
 - 🌐 Portfolio: https://developersparsh.github.io/Portfolio/
 
 Let's build something amazing together! 🚀
